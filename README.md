@@ -7,8 +7,6 @@
 
 - 🌱 Attualmente sto studiando **Python, Angular e C#**
 
-- 👨‍💻 Vi lascio anche il mio Portfolio! [https://nicomyportfolio.netlify.app/](https://nicomyportfolio.netlify.app/)
-
 - 📫 Come contattarmi? **nicola.lo.conte18@gmail.com**
 
 - ⚡ Curiosità su di me? **Sono un gamer, molto accanito, mi sono appassionato al mondo Dev proprio per questo!**
