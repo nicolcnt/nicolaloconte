@@ -1,33 +1,36 @@
 
 # Nicola Lo Conte
 
-I'm interested in programming and software development.
-I use GitHub to share my projects, experiment with different technologies, and keep track of what I'm working on.
+I'm interested in programming, software development, and technology.
+
+I use GitHub to share my projects, explore different technologies, and keep track of what I build.
 
 ## Technologies
 
-**Languages**
+### Programming Languages
+`C++` · `C#` · `Java` · `JavaScript` · `TypeScript` · `PHP` · `Python`
 
-C# · JavaScript · TypeScript · HTML · CSS
+### Web Technologies
+`HTML5` · `CSS3` · `Bootstrap` · `Tailwind CSS`
 
-**Frameworks & Libraries**
+### Frameworks & Libraries
+`Angular` · `AngularJS` · `React` · `Spring`
 
-.NET · React · Bootstrap · Tailwind CSS
+### Backend & Databases
+`Node.js` · `MySQL`
 
-**Tools & Databases**
+### Game Development
+`Unity` · `Unreal Engine`
 
-Git · GitHub · MySQL · Visual Studio · VS Code
-
-**Currently Learning**
-
-Python · Angular
+### Tools
+`Git`
 
 ## Projects
 
-You can find my personal projects and experiments in my repositories.
+My repositories include personal projects, applications, and experiments developed using different languages and technologies.
 
-[View repositories](https://github.com/nicolaloconte?tab=repositories)
+[Explore my repositories](https://github.com/nicolaloconte?tab=repositories)
 
 ## Contact
 
-[Email](mailto:nicola.lo.conte18@gmail.com)
+[Email](mailto:nicola.lo.conte18@gmail.com) · [Instagram](https://instagram.com/nicola.lo.conte)
