@@ -1,5 +1,5 @@
 
-# Nicola Lo Conte
+# Hi, I'm Nicola.
 
 I'm interested in programming, software development, and technology.
 
